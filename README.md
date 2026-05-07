@@ -1,4 +1,4 @@
-# PMI Calculator
+# Diffusion Index Analytics
 
 A web-based **Purchasing Managers' Index (PMI) Calculator** built with **Python** and **Streamlit** for analyzing survey-based economic and business activity data.
 
